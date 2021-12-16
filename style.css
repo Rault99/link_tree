@@ -1,0 +1,52 @@
+h1{
+    color:blue;
+    border-width: 5px;
+    border-style: solid;
+    border-color: springgreen
+}
+
+header{
+    background-color: violet;
+    font-family: cursive;
+    
+}
+
+
+.navbar1{
+    background-color: black;
+    overflow: hidden;
+    display: flex;
+    justify-content: space-evenly; 
+    align-items: flex-start;
+    font-size: 18px;
+}
+
+.first1{
+    background-color: yellow;
+    display: inline-block;
+    align-items: left;
+}   
+
+p{
+    font-size: 18px;
+    font-style: oblique;
+    color: brown;
+}
+
+.newspic{
+    text-align: right;
+}
+
+.rows{
+text-align: start;
+display: flex;
+}
+
+.newpic{
+    flex: 33.3%;
+    padding: 5px;
+}
+
+
+
+
